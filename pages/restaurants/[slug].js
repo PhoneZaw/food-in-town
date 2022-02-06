@@ -1,5 +1,4 @@
 import { useRouter } from "next/router";
-import Item from "../../components/item";
 import restaurants from "../../utils/data";
 
 function Restaurant({ restaurant }) {
